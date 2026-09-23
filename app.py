@@ -1,0 +1,6 @@
+print("===================================")
+print("APPLICATION DEPLOYED SUCCESSFULLY")
+print("===================================")
+print("Application: StudentPortal")
+print("Version: 1.0")
+print("Deployment completed.")
